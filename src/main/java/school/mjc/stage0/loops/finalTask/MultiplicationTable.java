@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MultiplicationTable {
     public void printTable(int numberTableToPrint){
         for (int i=1;i<=10;i++){
-            System.out.println(numberTableToPrint+"*"+i+"="+numberTableToPrint*i);
+            System.out.println(numberTableToPrint+" x "+i+" = "+numberTableToPrint*i);
         }
     }
     public void main(String []args){

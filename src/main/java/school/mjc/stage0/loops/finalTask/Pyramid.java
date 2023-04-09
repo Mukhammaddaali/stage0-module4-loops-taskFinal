@@ -7,7 +7,7 @@ public class Pyramid {
             for ( j=i;j>=1;j--){
                 System.out.print(j);
             }
-            for (int z=j+1;z<=i;z++){
+            for (int z=j+2;z<=i;z++){
                 System.out.print(z);
             }
             System.out.println();
